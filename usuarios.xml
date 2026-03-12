@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="usuarios.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<usuarios>
+    <usuario id="U001">
+        <nombreUsuario>alvaro_lopez92</nombreUsuario>
+        <contrasena>MiClave@2024</contrasena>
+        <email>alvaro.lopez@gmail.com</email>
+        <telefono>+34 612 345 678</telefono>
+        <codigoPostal>28001</codigoPostal>
+    </usuario>
+
+    <usuario id="U002">
+        <nombreUsuario>maria_garcia</nombreUsuario>
+        <contrasena>Seguro#Pasese3</contrasena>
+        <email>maria.garcia@hotmail.com</email>
+        <telefono>+34 722 987 654</telefono>
+        <codigoPostal>08001</codigoPostal>
+    </usuario>
+
+    <usuario id="U003">
+        <nombreUsuario>adrian123</nombreUsuario>
+        <contrasena>Admin$2024!</contrasena>
+        <email>adrian123@eusa.es</email>
+        <telefono>+34 633 111 222</telefono>
+        <codigoPostal>41001</codigoPostal>
+    </usuario>
+</usuarios>
