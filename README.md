@@ -42,7 +42,9 @@ Elemento raíz `<usuarios>` con varios `<usuario>`, cada uno con:
 
 ## Demostración de validación
 
-[![Ver en YouTube](https://img.shields.io/badge/YouTube-Ver%20vídeo-red?logo=youtube)](https://youtu.be/--l4bVfmJ0E)
+[![Ver en YouTube](https://img.shields.io/badge/YouTube-Ver%20vídeo-red?logo=youtube)](https://youtu.be/O0dY4uz1EMo)
+
+> Vídeo mostrando la validación en VSCode y las expresiones regulares en regex101.com
 
 Validado con **VSCode** + extensión **XML (Red Hat)** → 0 errores.
 
